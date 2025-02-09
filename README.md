@@ -60,6 +60,6 @@ Line 1
 
 This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
 
---
+---
 
 If you have any suggestions for improvement or questions, please feel free to create an issue or submit a pull request!
