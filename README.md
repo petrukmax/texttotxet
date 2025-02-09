@@ -20,28 +20,6 @@ This is a simple Python application named **texttotxet**, built using the Tkinte
 - Python 3.x
 - Tkinter library (usually included in the standard Python distribution)
 
-## Installation and Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/petrukmax/texttotxet.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd texttotxet
-   ```
-
-3. Run the application:
-
-   ```bash
-   python main.py
-   ```
-
-   (If you use Python 3.x as your main interpreter, the command might be `python3 main.py`.)
-
 ## How to Use
 
 1. Type text into the first text field, and it will automatically appear in the second text field in reverse line order.
